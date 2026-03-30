@@ -7,7 +7,7 @@ task.wait(0.2)
 task.wait(1)
 
 -- Set the clipboard to your Discord invite
-setclipboard("https://discord.gg/v8s9RQ8M8b")
+setclipboard("https://discord.gg/z4cH5RwE4U")
 
 print("Discord invite copied to clipboard!")
 
